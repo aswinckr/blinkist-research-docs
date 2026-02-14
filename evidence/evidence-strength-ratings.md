@@ -6,6 +6,16 @@
 
 ---
 
+## How This Document Was Created
+
+**Process:** Standardized evidence rating applied to all 88 cataloged claims
+**Source Documents:** claim-inventory.md (88 claims), statistics-catalog.md, quote-bank.md, case-studies-deep-dive.md, external verification research
+**Date Generated:** 2026-02-10
+
+During the research session, the AI agent evaluated each claim against standardized criteria: number of independent sources, external verifiability, methodology clarity, and direct attribution. Claims were rated 1-4 (NONE to STRONG) with confidence modifiers (✓ verified, ⚡ contradicted, ? unclear, ★ high-priority).
+
+---
+
 ## Purpose
 
 This document provides a definitive evidence strength rating for every claim in the Blinkist B2B sales materials. Ratings are based on standardized criteria and cross-referenced evidence from all source materials.

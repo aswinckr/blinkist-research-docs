@@ -6,6 +6,16 @@
 
 ---
 
+## How This Document Was Created
+
+**Process:** Extraction and strategic analysis of key findings from L&D industry report
+**Source Documents:** offbeat-37-ld-secrets-2025.pdf (159 pages) from v1-research/assets/
+**Date Generated:** 2026-02-09
+
+During the research session, the AI agent read the full 159-page L&D Trends report and extracted the 20 most strategically significant findings for Blinkist's Enterprise L&D positioning. Each finding includes the original claim, supporting quotes, implications for Blinkist's strategy, and confidence rating.
+
+---
+
 ## Overview
 
 This document extracts the 20 most strategically significant findings from the L&D Trends report, with direct implications for Blinkist's positioning in the Enterprise L&D market. Each finding includes the claim, evidence, strategic implication, and confidence rating.

@@ -11,6 +11,16 @@
 
 ---
 
+## How This Document Was Created
+
+**Process:** Transcript extraction and strategic analysis of L&D industry video content
+**Source Documents:** YouTube auto-generated transcript from L&D Disrupt Episode 92
+**Date Generated:** 2026-02-10
+
+During the research session, the AI agent retrieved the video transcript, identified key insights with timestamps, and analyzed each for strategic implications to Blinkist's Enterprise L&D positioning. Evidence was assigned IDs (E-VID-01 through E-VID-09) and cross-referenced with findings from the L&D Trends report.
+
+---
+
 ## Executive Summary
 
 Nelson (speaker) provides strategic L&D predictions for 2026 and beyond, emphasizing the dual forces reshaping workplace learning: AI agents as learning interfaces and community-driven human-to-human learning. The video reinforces themes from the Offbeat "37 L&D Secrets" report, providing spoken commentary on the underlying research.

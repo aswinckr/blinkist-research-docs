@@ -5,6 +5,16 @@
 
 ---
 
+## How This Document Was Created
+
+**Process:** Cataloging and metadata extraction for all source documents in the research corpus
+**Source Documents:** 3 primary PDFs (sales deck, L&D trends report, workshop proposal), 17 derived analysis files
+**Date Generated:** 2026-02-09
+
+During the research session, the AI agent inventoried all source materials, recording file metadata (name, size, page count, date), key extractions from each document, and derived analysis files produced. This serves as the master index for tracing any evidence back to its original source.
+
+---
+
 ## Summary Statistics
 
 | Category | Count |

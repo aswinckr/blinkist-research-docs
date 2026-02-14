@@ -8,6 +8,16 @@
 
 ---
 
+## How This Document Was Created
+
+**Process:** Extraction and confidence assessment of every quantitative claim from the sales deck
+**Source Documents:** original-deck.pdf (28 slides) from v1-research/assets/
+**Date Generated:** 2026-02-10
+
+During the research session, the AI agent extracted every number, percentage, and quantitative assertion from the Blinkist B2B sales deck. Each statistic was assigned a unique ID (STAT-001 through STAT-042), categorized by type, and evaluated for specificity, source verifiability, methodology clarity, and recency to produce a confidence rating (HIGH/MEDIUM/LOW/INSUFFICIENT).
+
+---
+
 ## Methodology
 
 Each statistic is evaluated for:

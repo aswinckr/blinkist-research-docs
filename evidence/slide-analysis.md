@@ -8,6 +8,16 @@
 
 ---
 
+## How This Document Was Created
+
+**Process:** Slide-by-slide extraction and analysis of the Blinkist B2B sales deck
+**Source Documents:** original-deck.pdf (28 slides, 60.3 MB) from v1-research/assets/
+**Date Generated:** 2026-02-09
+
+During the research session, the AI agent analyzed each of the 28 slides, extracting: key message, explicit/implicit claims, supporting evidence, evidence strength rating, and identified gaps. The deck was segmented into 8 sections (Opening, Problem, Solution, How It Works, L&D Support, Proof, Demo, Next Steps) for strategic analysis.
+
+---
+
 ## Analysis Framework
 
 For each slide:

@@ -6,6 +6,16 @@
 
 ---
 
+## How This Document Was Created
+
+**Process:** Systematic audit of all claims to identify those lacking adequate evidence
+**Source Documents:** claim-inventory.md (88 claims), claim-evidence-map.md, evidence-strength-ratings.md
+**Date Generated:** 2026-02-10
+
+During the research session, the AI agent reviewed every cataloged claim and its evidence chain, flagging claims with missing, weak, or contradicted support. Each gap was classified by risk level (CRITICAL/HIGH/MEDIUM/LOW), assessed for fixability, and paired with recommended investigation actions.
+
+---
+
 ## Purpose
 
 This document identifies all claims in Blinkist's B2B materials that lack adequate evidence. Each gap is:

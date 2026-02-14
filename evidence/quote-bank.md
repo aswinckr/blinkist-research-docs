@@ -1,5 +1,17 @@
 # Customer Quote Bank — Complete Testimonial Index
 
+---
+
+## How This Document Was Created
+
+**Process:** Extraction and cataloging of all customer testimonials and endorsements
+**Source Documents:** Blinkist B2B sales deck (28 slides), case study PDFs (Babbel, Trustpilot, Matillion/HAYS), Blinkist Business website
+**Date Generated:** 2026-02-10
+
+During the research session, the AI agent identified and extracted every customer quote from sales materials, assigning unique IDs (Q-001 through Q-007), documenting speaker attribution (named vs anonymous), and rating evidence strength. Each quote was analyzed for strategic implications and cross-referenced to supporting claims.
+
+---
+
 ## Overview
 
 This document catalogs all customer testimonials, quotes, and endorsements from Blinkist's B2B materials with full attribution, context, and evidence IDs for citation throughout the report.
